@@ -19,3 +19,14 @@ In a terminal or command window, navigate to the top-level project directory `sm
 ```python -m smartcab.agent```
 
 This will run the `agent.py` file and execute your agent code.
+
+### Techniques and concepts used:
+
+Several techniques and concepts are used in this project including 
+
+- Machine Learning
+- Q-learning
+- Learning rate
+- Optimal policy
+
+<img width="852" alt="improved_smartcab" src="https://user-images.githubusercontent.com/25111951/45105178-ae2bf480-b101-11e8-8207-cab24c0e2ba8.png">
